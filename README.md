@@ -82,7 +82,7 @@
   - Solar Sensing
   - Charger Control
   - PWM Duty Control
-
+```
 ---
 
 ## 🔄 Operating Concept
